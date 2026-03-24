@@ -21,8 +21,9 @@ This project is an embedded system designed to monitor analog and digital sensor
 * **Version Control:** Git
 
 # Repository Structure
-`/Core`: Main application code.
-`/Drivers`: Hardware specific HAL and custom sensor drivers.`/Docs`: Datasheets and architectural diagrams.
+* `/Core`: Main application code.
+* `/Drivers`: Hardware specific HAL and custom sensor drivers.
+* `/Docs`: Datasheets and architectural diagrams.
 
 ---
 *Note: This repository is currently under active development. Commits are being pushed as modules are tested and validated.*
