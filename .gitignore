@@ -1,0 +1,13 @@
+# .gitignore
+
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+.metadata/
+.settings/
+*.launch
