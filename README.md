@@ -10,7 +10,7 @@ This project is an embedded system designed to monitor analog and digital sensor
 # Core Architecture & Features (Planned)
 * **Bare-metal & HAL integration:** Utilizing STM32 Hardware Abstraction Layer alongside direct register manipulation for critical sections.
 * **Interrupt Service Routines:** EXTI lines configured for non-blocking button inputs and state machines.
-* **Peripheral Communication(UART):** For serial debugging and data transmission to a host PC.
+* **Peripheral Communication (UART):** For serial debugging and data transmission to a host PC.
 * **I2C/SPI:** For interfacing with external environmental/motion sensors.
 * **Direct Memory Access (DMA):** Offloading ADC (Analog-to-Digital Converter) continuous reads to memory to optimize CPU usage.
 * **Hardware Timers:** Utilizing PWM to control alert indicators (LEDs/Buzzers) with precise timing.
