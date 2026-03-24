@@ -16,9 +16,9 @@ This project is an embedded system designed to monitor analog and digital sensor
 * **Hardware Timers:** Utilizing PWM to control alert indicators (LEDs/Buzzers) with precise timing.
 
 # Tech Stack
-**Language:** C (Embedded)
-**IDE:** STM32CubeIDE
-**Version Control:** Git
+* **Language:** C (Embedded)
+* **IDE:** STM32CubeIDE
+* **Version Control:** Git
 
 # Repository Structure
 `/Core`: Main application code.
