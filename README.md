@@ -1,8 +1,8 @@
 # Sensor monitoring station (work in progress).
 
-**Author:** Jesus Arturo Martinez Bazan.
-**Target Hardware:** STM32 Microcontroller (ARM Cortex-M)
-**Status: In Development** (Expected completion: May 2026)
+* **Author:** Jesus Arturo Martinez Bazan.
+* **Target Hardware:** STM32 Microcontroller (ARM Cortex-M)
+* **Status: In Development** (Expected completion: May 2026)
 
 # Project Overview
 This project is an embedded system designed to monitor analog and digital sensors, process the data, and trigger local alerts. It is being developed in C using STM32CubeIDE, focusing on efficient hardware resource management.
